@@ -1,1 +1,1 @@
-# mvn-webapp
+# mvn-webapp-website
